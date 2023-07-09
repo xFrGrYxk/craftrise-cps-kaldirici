@@ -13,4 +13,5 @@ Roselia indirme sayfasına hoşgeldiniz. Aşağıda **kurulum aşamaları** veri
 - Aynı zamanda masaüstüne kurulan Speed autoclicker.rar ı klasöre ayıkla deyin ve onuda açın yazılımımız G300Si desteklemiyor program açıkken g300s makrosu bir anda bozuluyor ve çalışmıyor. Speed autoclickerı mousenize atama yapabilirsiniz. [Bu videodan speed autoclicker ayarlarınızı yapabilirsiniz.](https://www.youtube.com/watch?v=RquS9bz3GNg)
 - Ardından oyunu açın bir minigame girin, minigamenin tamamen başlamasını bekleyin örneğin bedwarsdaysanız kafese gelene kadar bekleyin ondan sonra açabilirsiniz diğer minigameler içinde aynı şekil.
 
+# eğer burdan tam olarak anlamadıysanız [Bu videodan detaylı kurulum ve kullanımı anlayabilirsiniz.](https://www.youtube.com/watch?v=s09B-0Rg0as)
   # iyi oyunlar dileriz, roselia ekibi.
